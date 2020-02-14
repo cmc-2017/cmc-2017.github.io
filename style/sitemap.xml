@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://computing.brad.ac.uk/cmc18/</loc>
+  <lastmod>2017-02-12T22:48:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://computing.brad.ac.uk/cmc18/index.html</loc>
+  <lastmod>2017-02-12T22:48:06+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://computing.brad.ac.uk/cmc18/committees.html</loc>
+  <lastmod>2017-02-12T22:48:04+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://computing.brad.ac.uk/cmc18/call-for-papers.html</loc>
+  <lastmod>2017-02-12T22:48:03+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://computing.brad.ac.uk/cmc18/venue.html</loc>
+  <lastmod>2017-02-12T22:48:08+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://computing.brad.ac.uk/cmc18/program.html</loc>
+  <lastmod>2017-02-12T22:48:08+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://computing.brad.ac.uk/cmc18/files/CMC18-CfP.pdf</loc>
+  <lastmod>2017-02-08T17:27:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
